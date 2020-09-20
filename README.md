@@ -1,4 +1,6 @@
-# fnn
-Emulation of a Multi-layer All-optical Fourier Neural Network based on spatial light modulators positive and negative weighting.
+title:
+
+A multi-layer optical fourier neural network based on convolution theorem
+
 
 These codes  can realize Multi-layer ONN based on convolution theorem.
