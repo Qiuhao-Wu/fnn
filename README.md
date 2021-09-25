@@ -17,11 +17,11 @@ The related articles of authors are
 
 [2] Liu, J., Wu, Q., Sui, X. et al. Research progress in optical neural networks: theory, applications and developments. PhotoniX 2, 5 (2021). https://doi.org/10.1186/s43074-021-00026-0
 
-[3] @misc{wu2021high,
-      title={High speed and reconfigurable optronic neural network with digital nonlinear activation}, 
-      author={Qiuhao Wu and Jia Liu and Xiubao Sui and Liping Wang and Qian Chen},
-      year={2021},
-      eprint={2103.07862},
-      archivePrefix={arXiv},
-      primaryClass={cs.ET}
-}
+[3] Qiuhao Wu, Yuhang Fei, Jia Liu, Liping Wang, Qian Chen, Guohua Gu, Xiubao Sui,
+High speed and reconfigurable optronic neural network with digital nonlinear activation,
+Optik,
+2021,
+168043,
+ISSN 0030-4026,
+https://doi.org/10.1016/j.ijleo.2021.168043.
+(https://www.sciencedirect.com/science/article/pii/S0030402621016016)
